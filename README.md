@@ -1,3 +1,6 @@
+# 🚨 PLEASE NOTE 🚨: This repository is no longer maintained. Use its successor [Upjet Provider Template](https://github.com/upbound/upjet-provider-template) instead. See details in https://github.com/crossplane/terrajet/issues/308
+
+---
 # Terrajet Template Provider
 
 `provider-jet-template` is a [Crossplane](https://crossplane.io/) provider that
